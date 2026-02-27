@@ -13,6 +13,11 @@ Aplicación fullstack que permite registrar usuarios, autenticarse mediante JWT 
 
 ## Tecnologías Utilizadas
 
+### Base de datos
+
+- Docker
+- Imagen PostgreSQL 16
+
 ### Backend
 
 - Nodejs Express
